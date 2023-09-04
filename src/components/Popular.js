@@ -49,7 +49,6 @@ const Popular = ({ Our }) => {
                   <Link>
                      <img src='images/view.svg' alt='view' className='p-2 mb-1 rounded bg-yellow-400 ' />
                   </Link>{" "}
-                  echo "# E-commerces"
                   <Link>
                      <img src='images/prodcompare.svg' alt='prodcompare' className='p-2 mb-1 rounded bg-yellow-400 ' />
                   </Link>
